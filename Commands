@@ -6,16 +6,11 @@
 
 ## 📥 One-Time Setup
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/Sandesh-Pandey/MediProject.git
-cd MediProject
-
-# 2. Install backend Python dependencies
+# 1. Install backend Python dependencies
 cd Backend
 pip install -r requirements.txt
 
-# 3. Install frontend Node dependencies
+# 2. Install frontend Node dependencies
 cd ../frontend
 npm install
 ```
